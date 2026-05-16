@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-19",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "INNEBÖRDER AV KLACK",   "color": "#A7D8FF", "words": ["BERGSTOPP","STILETT","AVSATS","SUPPORTRAR"] },
+    { "category": "FÖRSTA BOKSTAVEN HÖRS EJ", "color": "#D9C7FF", "words": ["LJUSBLÅ","GJUTJÄRN","HJÄLM","DJURGÅRDEN"] },
+    { "category": "INSTRUMENT", "color": "#BFF2C2", "words": ["HORN","BAS","TRIANGEL","LUTA"] },
+    { "category": "ÅLDRAR I NORDISK HISTORIA",  "color": "#FFE4B3", "words": ["STEN","VIKING","JÄRN","STORMAKT"] }
+  ]
+}

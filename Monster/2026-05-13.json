@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-03",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "SCHACKTERMER",   "color": "#A7D8FF", "words": ["BATTERI","PARTI","PATT","REMI"] },
+    { "category": "TVÅNGSBEGÄR", "color": "#D9C7FF", "words": ["MANI","DILLE","VURM","LIDELSE"] },
+    { "category": "SVÄNGER MAN MED", "color": "#BFF2C2", "words": ["RATT","STYRE","PANEL","SPARK"] },
+    { "category": "KRYDDAR MATEN",  "color": "#FFE4B3", "words": ["KANEL","KVANNE","ISOP","MYNTA"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-02",
+  "difficulty": "EASY",
+  "groups": [
+    { "category": "ORTER & STADSDELAR",   "color": "#A7D8FF", "words": ["JÄRNA","SKARA","VINGA","HAGA"] },
+    { "category": "KROPPSDELAR", "color": "#D9C7FF", "words": ["HJÄRNA","LEVER","ARM","BEN"] },
+    { "category": "PÅ HUMÖR", "color": "#BFF2C2", "words": ["GÄRNA","HÅGAD","BENÄGEN","VILLIG"] },
+    { "category": "INSEKTER",  "color": "#FFE4B3", "words": ["FJÄRIL","STEKEL","MAL","EKBOCK"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-07",
+  "difficulty": "EASY",
+  "groups": [
+    { "category": "KONSERVERA MAT",   "color": "#A7D8FF", "words": ["VAKUUM","TORKA","SALTA","FRYSA"] },
+    { "category": "GÅ MOT BÄTTRE TIDER", "color": "#D9C7FF", "words": ["LJUSNA","VÅRAS","TINA","KNOPPAS"] },
+    { "category": "ANSIKTSUTTRYCK", "color": "#BFF2C2", "words": ["MIN","GRIMAS","FLIN","LIP"] },
+    { "category": "TIDSPERIOD",  "color": "#FFE4B3", "words": ["ERA","EPOK","PERIOD","ÅLDER"] }
+  ]
+}

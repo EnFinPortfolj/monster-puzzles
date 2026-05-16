@@ -1,0 +1,10 @@
+{
+  "id": "2026-04-29",
+  "difficulty": "HARD",
+  "groups": [
+    { "category": "KOMMER OFTA I PAR",   "color": "#A7D8FF", "words": ["BYXOR","PARANTES","TVILLINGAR","ÖGON"] },
+    { "category": "GÖRS PÅ GYM", "color": "#D9C7FF", "words": ["PUMPA","LYFTA","PRESSA","CURLA"] },
+    { "category": "ASSOCIERAS MED NÄT", "color": "#BFF2C2", "words": ["FISKE","WIFI","SPINDEL","FOTBOLLSMÅL"] },
+    { "category": "I NOVEMEBER",  "color": "#FFE4B3", "words": ["MUSTASCHKAMPEN","SKORPION","CHANUKKA","MÅRTEN GÅS"] }
+  ]
+}

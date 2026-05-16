@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-16",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "HALVT TRANSPARENTA",   "color": "#A7D8FF", "words": ["SPÖKE","SILKESPAPPER","IS","GLAS"] },
+    { "category": "FIKTIVA PROFESSORER", "color": "#D9C7FF", "words": ["FRANKENSTEIN","DUMBLEDORE","X","OAK"] },
+    { "category": "VATTENDRAG", "color": "#BFF2C2", "words": ["Å","BÄCK","FLOD","FORS"] },
+    { "category": "IDROTTSMÄN",  "color": "#FFE4B3", "words": ["WOODS","JORDAN","TYSON","ALI"] }
+  ]
+}

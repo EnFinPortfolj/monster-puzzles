@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-18",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "KÄNSLOR I NAMNET",   "color": "#A7D8FF", "words": ["ARGANOLJA","SURSTRÖMMING","GLADIATOR","SKAMPI"] },
+    { "category": "JOHNNY DEPPS ROLLER", "color": "#D9C7FF", "words": ["HATTMAKARE","SJÖRÖVARE","GODISPRODUCENT","BARBERARE"] },
+    { "category": "GREKISKA MATRÄTTER", "color": "#BFF2C2", "words": ["MOUSSAKA","SOUVLAKI","GYROS","TZATZIKI"] },
+    { "category": "MIDSOMMARBORD",  "color": "#FFE4B3", "words": ["GUBBRÖRA","VÄSTERBOTTENPAJ","FÄRSKPOTATIS","LAX"] }
+  ]
+}

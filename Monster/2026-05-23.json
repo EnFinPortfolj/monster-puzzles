@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-23",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "SKYDDSUTRUSTNING",   "color": "#A7D8FF", "words": ["RUSTNING","HAZMATDRÄKT","FLYTVÄST","BILBÄLTE"] },
+    { "category": "RÖDA SAKER", "color": "#D9C7FF", "words": ["SALSA","HJÄRTA","DJÄVUL","TOMAT"] },
+    { "category": "BOKSTAVEN F", "color": "#BFF2C2", "words": ["FARENHEIT","FOXTROT","FLUOR","UNDERKÄNT"] },
+    { "category": "STÄDER + HOLM",  "color": "#FFE4B3", "words": ["BORG","STOCK","ÄNGEL","BOX"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-15",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "HAND___",   "color": "#A7D8FF", "words": ["LED","STIL","TAG","BOLL"] },
+    { "category": "MODESTILAR", "color": "#D9C7FF", "words": ["VINTAGE","STREET","MINIMALISTISK","BOHEMISK"] },
+    { "category": "TA FAST", "color": "#BFF2C2", "words": ["KOPPLA","GRIPA","HAFFA","GRIPA"] },
+    { "category": "MUSIKGENRER",  "color": "#FFE4B3", "words": ["KLASSISK","ROCK","HIPHOP","LATIN"] }
+  ]
+}

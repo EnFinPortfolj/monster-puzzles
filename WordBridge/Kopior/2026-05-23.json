@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-15",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SKOGS",
+      "rightWord": "BIL",
+      "solution": "BRAND"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "BIL",
+      "rightWord": "RING",
+      "solution": "NYCKEL"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "RING",
+      "rightWord": "BORG",
+      "solution": "FINGER"
+    }
+  ]
+}

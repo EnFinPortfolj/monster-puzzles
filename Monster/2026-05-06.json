@@ -1,0 +1,10 @@
+{
+  "id": "2026-04-27",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "TUSEN",   "color": "#A7D8FF", "words": ["LAX","KILO","MILLENNIUM","M"] },
+    { "category": "FÖRLORA", "color": "#D9C7FF", "words": ["TORSK","SUMPA","BESEGRAD","MISTA"] },
+    { "category": "MÅTT-ENHETER", "color": "#BFF2C2", "words": ["METER","BYTE","WATT","GRAM"] },
+    { "category": "BILAR",  "color": "#FFE4B3", "words": ["JAGUAR","HUMMER","SUPRA","MUSTANG"] }
+  ]
+}

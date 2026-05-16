@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-20",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "INNEHÅLLER STORLEKSORD",   "color": "#A7D8FF", "words": ["HÖGMOD","LÅNGSYNT","BREDBAND","KORTFATTAD"] },
+    { "category": "MISSUNNSAMHET", "color": "#D9C7FF", "words": ["AVUND","SOTIS","JALUSI","SVARTSJUKA"] },
+    { "category": "TRÅDLÖS DATAÖVERFÖRING", "color": "#BFF2C2", "words": ["5G","WIFI","AIRDROP","BLUETOOTH"] },
+    { "category": "ACKORD",  "color": "#FFE4B3", "words": ["G7","DSUS","AM","GMAJ7"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-17",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "KAN RÄTT SYFTA PÅ",   "color": "#A7D8FF", "words": ["DOMSTOL","NÅGORLUNDA","KORREKT","MAT"] },
+    { "category": "FELSTAVADE", "color": "#D9C7FF", "words": ["BESTÄMMT","NOGRANN","GIFTEMÅL","DOM PERIGON"] },
+    { "category": "FÅGLAR", "color": "#BFF2C2", "words": ["DOMHERRE","TÄRNA","SVALA","AND"] },
+    { "category": "TANGENTBORDETS ÖVRE RAD",  "color": "#FFE4B3", "words": ["OCH","PLUS","DOLLAR","FRÅGETECKEN"] }
+  ]
+}

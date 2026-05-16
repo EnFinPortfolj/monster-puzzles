@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-04",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "DJURLÄTEN",   "color": "#A7D8FF", "words": ["SURR","SKÄLL","GRYMT","PIP"] },
+    { "category": "GEMENSAMT FÖR ALLA", "color": "#D9C7FF", "words": ["ALLMÄN","PUBLIK","ÖPPEN","OFFENTLIG"] },
+    { "category": "ASSOCIERAS MED FLÖRTA", "color": "#BFF2C2", "words": ["VISSEL","SMICKER","BLINK","LER"] },
+    { "category": "TOKIG",  "color": "#FFE4B3", "words": ["GALEN","FÖRRYCKT","VANSINNIG","BAROCKT"] }
+  ]
+}

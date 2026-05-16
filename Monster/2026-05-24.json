@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-24",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "POLIS",   "color": "#A7D8FF", "words": ["KONSTAPEL","BOBBY","AINA","SNUT"] },
+    { "category": "HÄRMAS", "color": "#D9C7FF", "words": ["SKUGGA","PAPEGOJA","EKO","SPEGEL"] },
+    { "category": "ORDSPRÅK MED VARG", "color": "#BFF2C2", "words": ["HUNGRIG","ROPA","FÅRAKLÄDER","VEUM"] },
+    { "category": "KÄNDA KONSTVERK",  "color": "#FFE4B3", "words": ["NATTVAKT","SKRI","TÄNKARE","SISTA MÅLTID"] }
+  ]
+}

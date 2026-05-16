@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-22",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "TRÄNINGS",
+      "rightWord": "TABLETT",
+      "solution": "VÄRK"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "KVÄLLS",
+      "rightWord": "LAGNING",
+      "solution": "MAT"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SKOL",
+      "rightWord": "PUNKT",
+      "solution": "START"
+    }
+  ]
+}

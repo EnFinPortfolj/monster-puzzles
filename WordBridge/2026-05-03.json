@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-03",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SNABB",
+      "rightWord": "LÅDA",
+      "solution": "MAT"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "GLAS",
+      "rightWord": "BLICK",
+      "solution": "ÖGON"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "HUVUD",
+      "rightWord": "SPEL",
+      "solution": "ROLL"
+    }
+  ]
+}

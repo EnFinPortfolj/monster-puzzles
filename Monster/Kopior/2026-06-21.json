@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-21",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "BRA",   "color": "#A7D8FF", "words": ["NICE","REKO","SCHYSST","PRIMA"] },
+    { "category": "MOJITOINGREDIENSER", "color": "#D9C7FF", "words": ["ROM","MYNTA","LIME","SODAVATTEN"] },
+    { "category": "MUSIKALER", "color": "#BFF2C2", "words": ["CHICAGO","OKLAHOMA","HAMILTON","CATS"] },
+    { "category": "FIGURER I ILIADEN",  "color": "#FFE4B3", "words": ["PARIS","AJAX","NESTOR","PRIAM"] }
+  ]
+}

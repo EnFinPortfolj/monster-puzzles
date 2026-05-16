@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-09",
+  "difficulty": "HARD",
+  "groups": [
+    { "category": "KAN SLUTA PÅ STRECK",   "color": "#A7D8FF", "words": ["VÄDER","BUS","UNDER","BINDES"] },
+    { "category": "TYPER AV SNÖ", "color": "#D9C7FF", "words": ["NY","SLASK","PUDER","KRAM"] },
+    { "category": "KROPPSDELAR I NAMNET", "color": "#BFF2C2", "words": ["ÖGONBLICK","NÄSVIS","FOTSPÅR","HUVUDPERSON"] },
+    { "category": "ÖVER I NAMNET",  "color": "#FFE4B3", "words": ["MAKE-OVER","ÖVERSITTARE","MANÖVER","FYRKLÖVER"] }
+  ]
+}

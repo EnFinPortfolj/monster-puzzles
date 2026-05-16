@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-20",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SOMMAR",
+      "rightWord": "INTERVJU",
+      "solution": "JOBB"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "BRÖD",
+      "rightWord": "SKAFT",
+      "solution": "KNIV"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "STJÄRN",
+      "rightWord": "RIKE",
+      "solution": "HIMMEL"
+    }
+  ]
+}

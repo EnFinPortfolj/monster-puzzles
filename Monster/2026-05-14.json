@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-14",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "HAV & STORA SJÖAR",   "color": "#A7D8FF", "words": ["RÖDA","STILLA","MEDEL","DÖDA"] },
+    { "category": "ARLAS MJÖLKSORTER", "color": "#D9C7FF", "words": ["STANDARD","MELLAN","LÄTT","MINI"] },
+    { "category": "STEKGRAD PÅ KÖTT", "color": "#BFF2C2", "words": ["MEDIUM","BLODIG","GENOMSTEKT","RÅ"] },
+    { "category": "SAKTA NER",  "color": "#FFE4B3", "words": ["BROMSA","STANNA","HEJDA","RETARDERA"] }
+  ]
+}

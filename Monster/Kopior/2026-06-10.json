@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-10",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "EFFEKTER",   "color": "#A7D8FF", "words": ["DUNNING-KRUGER","MANDELA","WATT","HALO"] },
+    { "category": "AVSTÅND", "color": "#D9C7FF", "words": ["METER","FOT","ALN","FAMN"] },
+    { "category": "FLYGPLATSER", "color": "#BFF2C2", "words": ["DE GAULLE","KENNEDY","DA VINCI","CHOPIN"] },
+    { "category": "ASSOCIERAS MED FÄRGER",  "color": "#FFE4B3", "words": ["RUBRIKS KUB","MYERS-BRIGGS","PALETT","UNO"] }
+  ]
+}
