@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-25",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SJUK",
+      "rightWord": "VAGN",
+      "solution": "HUS"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "SNÖ",
+      "rightWord": "KÖK",
+      "solution": "STORM"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SOMMAR",
+      "rightWord": "RUVA",
+      "solution": "VIND"
+    }
+  ]
+}

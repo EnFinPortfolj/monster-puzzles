@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-25",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "ASSOCIERAS MED BORTSKÄMD",   "color": "#A7D8FF", "words": ["CURLAD","RÄKMACKA","SILVERFAT","GRÄDDFIL"] },
+    { "category": "CRÈME BRÛLÉE", "color": "#D9C7FF", "words": ["VISPGRÄDDE","SOCKER","VANILJSTÅNG","ÄGGULA"] },
+    { "category": "4 AV AFRIKAS BIG FIVE", "color": "#BFF2C2", "words": ["ELEFANT","NOSHÖRNING","BUFFEL","LEJON"] },
+    { "category": "BRUN___",  "color": "#FFE4B3", "words": ["BJÖRN","OST","BRÄND","ÖGD"] }
+  ]
+}

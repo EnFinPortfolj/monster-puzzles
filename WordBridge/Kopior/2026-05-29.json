@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-29",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "NYCKEL",
+      "rightWord": "DANS",
+      "solution": "RING"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "HAVS",
+      "rightWord": "GOTT",
+      "solution": "ÖRN"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SJÄLV",
+      "rightWord": "KRIS",
+      "solution": "FÖRTROENDE"
+    }
+  ]
+}

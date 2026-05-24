@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-26",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "SVENSKA LITTERÄRA VERK",   "color": "#A7D8FF", "words": ["KALLOCAIN","DOKTOR GLAS","RÖDA RUMMET","UTVANDRARNA"] },
+    { "category": "FIKTIVA ÄMNEN / METALLER", "color": "#D9C7FF", "words": ["KRYPTONIT","ADAMANTIUM","VIBRANIUM","MITHRIL"] },
+    { "category": "ANTIKENS UTTRYCK", "color": "#BFF2C2", "words": ["TROJANSK HÄST","AKILLESHÄL","PANDORAS ASK","SISYFOSARBETE"] },
+    { "category": "PLATSER I STOCKHOLM",  "color": "#FFE4B3", "words": ["HÖTORGET","BLÅ HALLEN","GRÖNA LUND","SLUSSEN"] }
+  ]
+}

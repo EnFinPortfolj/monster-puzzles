@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-26",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SMÖR",
+      "rightWord": "KASTARE",
+      "solution": "KNIV"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "SPEL",
+      "rightWord": "EKONOMI",
+      "solution": "PLAN"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "RING",
+      "rightWord": "GRÖNA",
+      "solution": "MUR"
+    }
+  ]
+}

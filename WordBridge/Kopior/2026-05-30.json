@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-30",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "KATT",
+      "rightWord": "BORD",
+      "solution": "MAT"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "FICK",
+      "rightWord": "VERK",
+      "solution": "UR"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SKOGS",
+      "rightWord": "BYGEL",
+      "solution": "STIG"
+    }
+  ]
+}
