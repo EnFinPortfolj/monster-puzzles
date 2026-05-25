@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-27",
+  "difficulty": "EASY",
+  "groups": [
+    { "category": "EGENSKAPER",   "color": "#A7D8FF", "words": ["ELEFANTMINNE","VALPÖGON","HÖKBLICK","LEJONHJÄRTA"] },
+    { "category": "BRÄD- OCH KORTSPEL", "color": "#D9C7FF", "words": ["BANKA BÄVER","SVÄLTA RÄV","PLUMP","DEN FÖRSVUNNA DIAMANTEN"] },
+    { "category": "MATERIAL I SMYCKEN", "color": "#BFF2C2", "words": ["GULD","KVARTS","TITAN","TIGERÖGA"] },
+    { "category": "STUNDER PÅ DAGEN",  "color": "#FFE4B3", "words": ["GOLDEN HOUR","GRYNING","VARGTIMMAR","MORGONSTUND"] }
+  ]
+}

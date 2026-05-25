@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-28",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "PROMENAD",   "color": "#A7D8FF", "words": ["RUNDA","GÅNGTUR","STRÖG","SPATSERA"] },
+    { "category": "LANDSKAP I ORDET", "color": "#D9C7FF", "words": ["BERGVÄRME","FJÄLLRÄVEN","DALGÅNG ","SJÖMAN"] },
+    { "category": "SAKER SOM KNASTRAR", "color": "#BFF2C2", "words": ["RADIO","BRASA","CHIPS","VINYLSPELARE"] },
+    { "category": "SAKER SOM ÄR FYRA",  "color": "#FFE4B3", "words": ["ÅRSTID","ELEMENT","BEATLES","BLODTYP"] }
+  ]
+}
