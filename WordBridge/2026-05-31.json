@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-31",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "LJUD",
+      "rightWord": "MÄRKE",
+      "solution": "BOK"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "ÄPPEL",
+      "rightWord": "ASCH",
+      "solution": "MUST"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "MOBIL",
+      "rightWord": "RÅN",
+      "solution": "BANK"
+    }
+  ]
+}

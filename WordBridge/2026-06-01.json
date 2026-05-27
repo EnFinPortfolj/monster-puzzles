@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-01",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "FÖRSTA",
+      "rightWord": "LISTA",
+      "solution": "PRIS"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "LIV",
+      "rightWord": "KOTT",
+      "solution": "BOJ"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SKÖN",
+      "rightWord": "FÅGEL",
+      "solution": "SÅNG"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-28",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "BIL",
+      "rightWord": "LAPP",
+      "solution": "KÖ"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "KÖR",
+      "rightWord": "FILM",
+      "solution": "KORT"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "BLOM",
+      "rightWord": "GLOB",
+      "solution": "JORD"
+    }
+  ]
+}

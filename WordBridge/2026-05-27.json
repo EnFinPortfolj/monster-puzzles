@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-27",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "NATT",
+      "rightWord": "LAG",
+      "solution": "KLUBB"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "HJÄRT",
+      "rightWord": "BORR",
+      "solution": "SLAG"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "LIVS",
+      "rightWord": "PUNKT",
+      "solution": "MEDEL"
+    }
+  ]
+}
