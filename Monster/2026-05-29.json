@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-29",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "LITEN EXTRA DETALJ",   "color": "#A7D8FF", "words": ["KNORR","KRYDDA","FINESS","TWIST"] },
+    { "category": "NÄSA", "color": "#D9C7FF", "words": ["KRAN","SNOK","NOS","TRYNE"] },
+    { "category": "EXALTERAD", "color": "#BFF2C2", "words": ["EUFORISK","BUBBLANDE","BEGEISTRAD","UPPRYMD"] },
+    { "category": "PARADIS",  "color": "#FFE4B3", "words": ["EL DORADO","SHANGRI-LA","AVALON","ELYSIUM"] }
+  ]
+}
