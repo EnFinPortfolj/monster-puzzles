@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-30",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "TRO PÅ FRAMTIDEN",   "color": "#A7D8FF", "words": ["HOPP","FÖRTRÖSTAN","LJUSGLIMT","UTSIKT"] },
+    { "category": "KAMERALÄGEN'", "color": "#D9C7FF", "words": ["PORTRÄTT","LANDSKAP","PANORAMA","MAKRO"] },
+    { "category": "MISSTAG", "color": "#BFF2C2", "words": ["TAVLA","SNESTEG","GRODA","BOCK"] },
+    { "category": "HALVA NAMNET FRÅN BAMSE",  "color": "#FFE4B3", "words": ["SKUTT","JANSON","NINA","REINARD"] }
+  ]
+}
