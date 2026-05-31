@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-03",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "BAD",
+      "rightWord": "HAV",
+      "solution": "BOLL"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "GLAS",
+      "rightWord": "TJÄNARE",
+      "solution": "ÖGON"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "REGN",
+      "rightWord": "SÅNGARE",
+      "solution": "ROCK"
+    }
+  ]
+}

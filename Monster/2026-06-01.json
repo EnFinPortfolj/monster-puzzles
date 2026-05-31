@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-01",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "FINNS PÅ FÄNGELSE",   "color": "#A7D8FF", "words": ["CELL","VAKT","BLOCK","GALLER"] },
+    { "category": "PRISER MED GULD", "color": "#D9C7FF", "words": ["BAGGE","BOLL","SPADE","ÄGG"] },
+    { "category": "SIMSTILAR", "color": "#BFF2C2", "words": ["BRÖST","RYGG","FRI","FJÄRIL"] },
+    { "category": "KAN AB INNEBÄRA",  "color": "#FFE4B3", "words": ["AKTIEBOLAG","BLODTYP","MAGMUSKLER","AFTONBLADET"] }
+  ]
+}

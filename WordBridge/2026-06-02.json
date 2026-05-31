@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-02",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "SOL",
+      "rightWord": "STAKE",
+      "solution": "LJUS"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "SOL",
+      "rightWord": "BUSKE",
+      "solution": "ROS"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "FOT",
+      "rightWord": "BOK",
+      "solution": "NOT"
+    }
+  ]
+}

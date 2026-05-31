@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-04",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "FÖDELSE",
+      "rightWord": "BOK",
+      "solution": "DAG"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "HUS",
+      "rightWord": "PARK",
+      "solution": "DJUR"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "ÖGON",
+      "rightWord": "FÅNG",
+      "solution": "BLICK"
+    }
+  ]
+}

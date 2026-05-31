@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-05",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "VIGSEL",
+      "rightWord": "FINGER",
+      "solution": "RING"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "RÖST",
+      "rightWord": "VISA",
+      "solution": "RÄTT"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "HÅLL",
+      "rightWord": "ANNONS",
+      "solution": "PLATS"
+    }
+  ]
+}
