@@ -3,7 +3,7 @@
   "difficulty": "NORMAL",
   "groups": [
     { "category": "LÅTER SOM EN BOKSTAV",   "color": "#A7D8FF", "words": ["ÄRR","TE","BE","ELLE"] },
-    { "category": "SÄLLSKAPSPEL", "color": "#D9C7FF", "words": ["OPERTION","LABYRINTH","HINT","RISK"] },
+    { "category": "SÄLLSKAPSPEL", "color": "#D9C7FF", "words": ["OPERATION","LABYRINTH","HINT","RISK"] },
     { "category": "___FLÖJT", "color": "#BFF2C2", "words": ["PAN","TVÄR","BLOCK","NÄS"] },
     { "category": "SY-TERM I NAMNET",  "color": "#FFE4B3", "words": ["LEDTRÅD","SAXOFON","NÅLSÖGA","SÖMNLÖS"] }
   ]
