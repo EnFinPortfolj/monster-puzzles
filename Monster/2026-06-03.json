@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-03",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "VILL MAN EJ HA PÅ FOTEN",   "color": "#A7D8FF", "words": ["LIKTORN","SVAMP","HUNDBAJS","LEGO"] },
+    { "category": "BASKETTERMER", "color": "#D9C7FF", "words": ["DUNK","BLOCK","RETUR","ASSIST"] },
+    { "category": "KAN TUR INNEBÄRA", "color": "#BFF2C2", "words": ["LYCKOSAM","RUNDA","UTFLYKT","ORDNINGSFÖLJD"] },
+    { "category": "EXPONENTIALTERMER",  "color": "#FFE4B3", "words": ["KVADRAT","ROT","POTENS","BAS"] }
+  ]
+}
