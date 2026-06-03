@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-04",
+  "difficulty": "NORMAL",
+  "groups": [
+    { "category": "____POTATIS",   "color": "#A7D8FF", "words": ["MANDEL","DELIKATESS","BAKAD","SÖT"] },
+    { "category": "MED RIKTNING I ORDET", "color": "#D9C7FF", "words": ["BAKHÅLL","NEDSLAG","UPPFÖRANDE","MANÖVER"] },
+    { "category": "ANAGRAM AV VARANDRA", "color": "#BFF2C2", "words": ["ARMÉN","RAMEN","MENAR","MANÉR"] },
+    { "category": "MAT MED ORTSNAMN",  "color": "#FFE4B3", "words": ["BOLOGNAISE","WIENERBRÖD","HAMBURGARE","TOAST SKAGEN"] }
+  ]
+}
