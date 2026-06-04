@@ -1,10 +1,10 @@
 {
   "id": "2026-06-05",
-  "difficulty": "EASY",
+  "difficulty": "NORMAL",
   "groups": [
-    { "category": "POKERTERMER",   "color": "#A7D8FF", "words": ["CHECK","SYN","FLOPP","BLUFF"] },
-    { "category": "SAMLARFÖREMÅL", "color": "#D9C7FF", "words": ["MYNT","FRIMÄRKE","SERIETIDNING","SKIVA"] },
-    { "category": "STÄLLA IN SIG PÅ", "color": "#BFF2C2", "words": ["MÅL","RIKTNING","SIKTE","FOKUS"] },
-    { "category": "SLUTAR PÅ RÖRELSER",  "color": "#FFE4B3", "words": ["UTSPARK","BAKSLAG","AVHOPP","UPPKAST"] }
+    { "category": "AGGREGATIONSTILLSTÅND",   "color": "#A7D8FF", "words": ["PLASMA","FAST","GAS","FLYTANDE"] },
+    { "category": "PALINDROMER", "color": "#D9C7FF", "words": ["SKAKAS","RADAR","ORO","ROTOR"] },
+    { "category": "HITTAS UNDER JORD", "color": "#BFF2C2", "words": ["OLJA","MAGMA","FOSSIL","ROT"] },
+    { "category": "STEN___",  "color": "#FFE4B3", "words": ["ÅLDER","SKOTT","KOL","FRUKT"] }
   ]
 }
