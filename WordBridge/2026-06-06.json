@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-06",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "MOTOR",
+      "rightWord": "SKYLT",
+      "solution": "VÄG"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "DANS",
+      "rightWord": "LAMPA",
+      "solution": "GOLV"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "KRUT",
+      "rightWord": "SLAG",
+      "solution": "DURK"
+    }
+  ]
+}
