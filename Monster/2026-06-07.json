@@ -1,10 +1,10 @@
 {
   "id": "2026-06-07",
-  "difficulty": "EASY",
+  "difficulty": "NORMAL",
   "groups": [
-    { "category": "KONSERVERA MAT",   "color": "#A7D8FF", "words": ["VAKUUM","TORKA","SALTA","FRYSA"] },
-    { "category": "GÅ MOT BÄTTRE TIDER", "color": "#D9C7FF", "words": ["LJUSNA","VÅRAS","TINA","KNOPPAS"] },
-    { "category": "ANSIKTSUTTRYCK", "color": "#BFF2C2", "words": ["MIN","GRIMAS","FLIN","LIP"] },
-    { "category": "TIDSPERIOD",  "color": "#FFE4B3", "words": ["ERA","EPOK","PERIOD","ÅLDER"] }
+    { "category": "BÅDE FIKTIA FIGURER & ÖKNAMN",   "color": "#A7D8FF", "words": ["BAMSE","DON JUAN","DUMBO","TOKER"] },
+    { "category": "BOLL___", "color": "#D9C7FF", "words": ["KALLE","HAV","INNEHAV","KLUBB"] },
+    { "category": "STOR GRUPP MED MÄNNISKOR", "color": "#BFF2C2", "words": ["MASSA","SAMLING","FOLKHAV","VIMMEL"] },
+    { "category": "TVÄTTMEDEL",  "color": "#FFE4B3", "words": ["ARIEL","FIXA","VIA","GRUMME"] }
   ]
 }
