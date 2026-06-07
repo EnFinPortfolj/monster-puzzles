@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-08",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "KORK",
+      "rightWord": "DRAGARE",
+      "solution": "SKRUV"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "NYHETS",
+      "rightWord": "DUVA",
+      "solution": "BREV"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "HAND",
+      "rightWord": "BORR",
+      "solution": "SLAG"
+    }
+  ]
+}
