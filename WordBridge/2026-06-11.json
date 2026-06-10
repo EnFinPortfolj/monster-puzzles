@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-11",
+  "puzzles": [
+    {
+      "difficulty": "EASY",
+      "leftWord": "PLANK",
+      "rightWord": "PANNA",
+      "solution": "STEK"
+    },
+    {
+      "difficulty": "MEDIUM",
+      "leftWord": "SOL",
+      "rightWord": "HELIG",
+      "solution": "SKEN"
+    },
+    {
+      "difficulty": "HARD",
+      "leftWord": "SKID",
+      "rightWord": "FEL",
+      "solution": "STAV"
+    }
+  ]
+}

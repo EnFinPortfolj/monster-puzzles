@@ -1,10 +1,10 @@
 {
   "id": "2026-06-11",
-  "difficulty": "EASY",
+  "difficulty": "NORMAL",
   "groups": [
-    { "category": "ORTER & STADSDELAR",   "color": "#A7D8FF", "words": ["JÄRNA","SKARA","VINGA","HAGA"] },
-    { "category": "KROPPSDELAR", "color": "#D9C7FF", "words": ["HJÄRNA","LEVER","ARM","BEN"] },
-    { "category": "PÅ HUMÖR", "color": "#BFF2C2", "words": ["GÄRNA","HÅGAD","BENÄGEN","VILLIG"] },
-    { "category": "INSEKTER",  "color": "#FFE4B3", "words": ["FJÄRIL","STEKEL","MAL","EKBOCK"] }
+    { "category": "VISAR VÄGEN",   "color": "#A7D8FF", "words": ["PIL","VISARE","INDIKATOR","NÅL"] },
+    { "category": "SLUTAR PÅ SVENSKA BLOMMOR", "color": "#D9C7FF", "words": ["SIPPA","KLOCKA","KRAGE","VIVA"] },
+    { "category": "ONOMATOPOETISKA ORD", "color": "#BFF2C2", "words": ["KLUNKA","BRAK","PRASSLA","KVACKA"] },
+    { "category": "ASSOCIERAS MED LIVET",  "color": "#FFE4B3", "words": ["LA VIDA","PÅ EN PINNE","MIDJA","TILLVARO"] }
   ]
 }
